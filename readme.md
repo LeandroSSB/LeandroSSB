@@ -1,6 +1,5 @@
-### Olá! eu sou o Magosso
-- 🔭 Atualmente estudando na Universidade Uniderp
-- 🌱 Eu estou aprendendo JavaScript
+### Olá! eu sou o Leandro!
+- 🔭 Atualmente Trabalho na Driven
 - 😄 Pronouns: ele/dele
 
   <div style="display: inline_block"><br>
