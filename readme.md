@@ -2,7 +2,7 @@
 - 🔭 Atualmente Trabalho na Driven
 - 😄 Pronouns: ele/dele
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center" >
 
 
   <div align="left">
@@ -51,9 +51,11 @@
     <img align="center" alt="Heroku" height="40" width="90" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" >
     <img align="center" alt="Aws" height="40" width="90" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" >
     <img align="center" alt="Nginx" height="40" width="90" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" >
-    <img align="center" alt="GIT" height="40" width="90" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" >
-    <img align="center" alt="Linux" height="40" width="90" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" >
     </div>
    
+  </br>
+
+  <img align="center" alt="GIT" height="40" width="90" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" >
+  <img align="center" alt="Linux" height="40" width="90" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" >
           
 </div>
