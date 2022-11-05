@@ -57,16 +57,3 @@
    
           
 </div>
-
-
- <!-- This content will not appear in the rendered Markdown -->
-<style>
-  div {
-    margin: 10px
-  }
-
-  img {
-    margin: 1px
-  }
-
-</style>
