@@ -1,5 +1,5 @@
 ### Olá! eu sou o Leandro!
-- 🔭 Atualmente Trabalho na Driven
+- 🔭 Em busca de novos desafios
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block" align="center" >
