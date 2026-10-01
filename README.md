@@ -66,7 +66,7 @@ Desenvolvedor Full Stack Pleno (~4 anos) construindo e mantendo sistemas em prod
 
 #### 💰 [Nummus](https://github.com/LeandroSSB/nummus)
 Payment account core: ledger de dupla entrada, pagamentos instantâneos e APIs idempotentes para merchants — desenhado para exatidão financeira.
-_Tecnologias:_ TypeScript, NestJS, PostgreSQL
+_Tecnologias:_ Java 25, Spring Boot, Maven
 
 #### 🏗️ [Fullstack Case Turbo](https://github.com/LeandroSSB/fullstack-case-turbo)
 Monorepo Turborepo com frontend Next.js + backend NestJS em workspaces, cache e comandos otimizados.
@@ -146,7 +146,7 @@ Full Stack Developer (~4 years) building and maintaining real production systems
 
 #### 💰 [Nummus](https://github.com/LeandroSSB/nummus)
 Payment account core: double-entry ledger, instant payments, and idempotent merchant APIs — designed for financial exactness.
-_Tech:_ TypeScript, NestJS, PostgreSQL
+_Tech:_ Java 25, Spring Boot, Maven
 
 #### 🏗️ [Fullstack Case Turbo](https://github.com/LeandroSSB/fullstack-case-turbo)
 Turborepo monorepo with Next.js frontend + NestJS backend in workspaces, shared cache and optimized commands.
